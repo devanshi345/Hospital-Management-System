@@ -1,5 +1,6 @@
 # Hospital-Management-System
-# PACKAGES TO BE INSTALLED:
+
+## PACKAGES TO BE INSTALLED:
 1. sqlite3 
 2. tkinter 
 3. re 
@@ -28,6 +29,6 @@ All packages used are pre-installed in Python.
 
 ## TEAM DETAILS:
 Project done by:
-Chaitali Thakkar (19BCE031)
-Devanshi Goel (19BCE067)
-Dhara Harsora (19BCE076)
+1. Devanshi Goel (19BCE067)
+2. Dhara Harsora (19BCE076)
+3. Chaitali Thakkar (19BCE031)
